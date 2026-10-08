@@ -5,5 +5,8 @@ public class Main{
         System.out.println("Hello, Git!");
         System.out.println(name);
         System.out.println(group);
+        int y=6;
+        int x =7;
+        System.out.println(x+y);
     }
 }
